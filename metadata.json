@@ -1,0 +1,6 @@
+{
+  "name": "AI Landing Page Generator",
+  "description": "Nhận Ebook 79K, tạo Landing Page AI miễn phí và tối ưu SEO tăng tỷ lệ chuyển đổi khách hàng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
