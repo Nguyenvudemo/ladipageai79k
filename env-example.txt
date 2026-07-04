@@ -1,0 +1,6 @@
+# FILE CẤU HÌNH ENVIRONMENT CHO ĐƯỜNG DẪN GOOGLE SHEET
+# Bạn có thể copy nội dung này vào file .env trên máy của bạn hoặc cấu hình trực tiếp trên hosting.
+
+GOOGLE_SHEET_WEBHOOK_URL="ĐÁN_URL_APPS_SCRIPT_CỦA_BẠN_VÀO_ĐÂY"
+APP_URL="URL_CỦA_TRANG_WEB_NẾU_CẦN"
+GEMINI_API_KEY="MÃ_API_GEMINI_NẾU_CÓ"
